@@ -5,7 +5,7 @@
 <h3> Project Objective </h3>
 <p> Project To Do list merupakan sebuah project aplikasi website berbasis React. Tujuan dari aplikasi To-Do-List ini adalah membuat list dari kegiatan yang akan kita lakukan. Dengan aplikasi To-Do-List ini, kita dapat memasukkan kegiatan baru, melihat kegiatan, dan menghapus kegiatan</p>
 
-<h3> Project Result <h3>
+<h3> Project Result </h3>
   <p> Aplikasi To-Do-List terdiri dari beberapa fitur, seperti berikut</p>
   
   <ul>
