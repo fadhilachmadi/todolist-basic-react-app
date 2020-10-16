@@ -1,0 +1,59 @@
+
+
+#body{
+  background-color: rgb(100, 100, 100);
+  height: 100vh;
+  padding: 70px 0;
+  text-align: center;
+}
+
+.task-container{
+  background-color: rgb(192, 187, 187);
+  margin: auto;
+  height: auto;
+  border: 5px 5px darkblue;
+  width: 25%;
+  text-align: center;
+  padding: 10px 0px;
+}
+
+.header{
+  text-align: center;
+  margin: 0;
+  color: darkblue;
+}
+
+#task-input{
+  margin-top: 1em;
+}
+
+.task-button{
+  height: 4em;
+}
+
+.infoBar{
+  margin-top: 1em;
+  text-align: center;
+}
+
+.task-list-container{
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  margin: 2em 0;
+}
+
+.task-content{
+  width: 50%;
+  height: auto;
+  border-radius: 5px;
+  padding: 0px 10px;
+  background-color: white;
+  text-align: left;
+  word-wrap: break-word;
+}
+
+.delete-button{
+  height: 5em;
+}
+
