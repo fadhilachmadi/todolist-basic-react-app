@@ -24,5 +24,5 @@
   <h3> Conclusion </h3>
 <p> Aplikasi To-Do-List merupakan sebuah aplikasi website berbasis React yang berfungsi untuk pengelolaan kegiatan kita, seperti memasukkan daftar kegiatan, melihat daftar kegiatan, hingga menghapus kegiatan tertentu. Untuk memperindah dan membuat pengguna website lebih nyaman, aplikasi dihias dengan menggunakan materi internal (HTML CSS) dan materi eksternal (dari https://material-ui.com). 
 
-Dengan pembuatan aplikasi ini, saya mendapat pembelajaran lebih mengenai Basic React, serta pengalaman membuat website dengan React. Untuk melihat aplikasi website To-Do-List, dapat dilihat di <a href="https://drive.google.com/file/d/1i-RV39yXYB9a68IK9fPWGbRI8wgOaXWC/view">sini</a>
+Dengan pembuatan aplikasi ini, saya mendapat pembelajaran lebih mengenai Basic React, serta pengalaman membuat website dengan React. Untuk melihat aplikasi website To-Do-List, dapat dilihat di <a href="https://drive.google.com/file/d/1KEnGSLhhwMHJZyEMSwT1ZWYxfxBvgonn/view?usp=sharing">sini</a>
 </p>
